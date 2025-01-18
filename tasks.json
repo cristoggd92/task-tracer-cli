@@ -1,0 +1,14 @@
+[
+    {
+        "description": "Ir al supermercado",
+        "status": "to-do"
+    },
+    {
+        "description": "Pintar la casa",
+        "status": "to-do"
+    },
+    {
+        "description": "Arreglar ropa",
+        "status": "to-do"
+    }
+]
